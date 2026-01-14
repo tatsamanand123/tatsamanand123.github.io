@@ -1,17 +1,33 @@
-# Tatsam Anand (MrJhola)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tatsam Anand – Indian Guitarist</title>
+</head>
+<body>
 
-**Tatsam Anand** (born 20 June 2009), professionally known as **MrJhola**, is an Indian guitarist and solo musician from Patna, Bihar. He specializes in guitar-driven music influenced by rock and metal and releases original compositions independently across digital platforms.
+  <h1>Tatsam Anand</h1>
+  <h3>Indian guitarist & solo artist</h3>
 
+  <p>
+    <strong>Tatsam Anand</strong> (born 20 June 2009), professionally known as <strong>MrJhola</strong>,
+    is an Indian guitarist and independent solo musician from Patna, Bihar.
+    He is known for his guitar-driven sound and rock and metal influences and releases music as a solo artist.
+  </p>
 
-## About This Repository
+  <p>
+    He was born in Patna, Bihar, to <strong>Ratna Shree</strong> and <strong>Anand Prakash</strong>.
+  </p>
 
-This repository hosts the official **GitHub Pages website** of Tatsam Anand (MrJhola), providing information about his music, biography, and online presence.
+  <h4>Quick Facts</h4>
+  <ul>
+    <li><strong>Name:</strong> Tatsam Anand</li>
+    <li><strong>Stage name:</strong> MrJhola</li>
+    <li><strong>Born:</strong> 20 June 2009</li>
+    <li><strong>Birthplace:</strong> Patna, Bihar, India</li>
+    <li><strong>Occupation:</strong> Guitarist, solo artist</li>
+    <li><strong>Genres:</strong> Rock, Metal</li>
+    <li><strong>Instrument:</strong> Guitar</li>
+  </ul>
 
-## Links
-
-- Instagram:https://www.instagram.com/mrjhola23?igsh=aWwwZGo0NjBnb2Y=   
-- Spotify/JioSaavn: MrJhola   
-
----
-
-© 2026 Tatsam Anand. All rights reserved.
+</body>
+</html>
