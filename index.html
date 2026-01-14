@@ -22,6 +22,48 @@
         }
         .button:hover { background-color: #2ea043; }
     </style>
+    <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+        font-family: 'Segoe UI', sans-serif;
+        /* This line adds your image and makes it cover the whole screen */
+        background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('background.png');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        padding: 20px;
+    }
+
+    .card {
+        background: rgba(43, 32, 23, 0.8); /* Dark brownish glass effect */
+        backdrop-filter: blur(8px);
+        border: 1px solid rgba(210, 180, 140, 0.3); /* Light brown border */
+        padding: 40px;
+        border-radius: 20px;
+        max-width: 450px;
+        width: 100%;
+        text-align: center;
+        box-shadow: 0 20px 50px rgba(0,0,0,0.8);
+    }
+
+    .profile-img {
+        width: 130px;
+        height: 130px;
+        border-radius: 50%;
+        border: 3px solid #d2b48c; /* Light brown / Tan border */
+        margin-bottom: 20px;
+        object-fit: cover;
+        box-shadow: 0 0 15px rgba(210, 180, 140, 0.5);
+    }
+
+    /* ... Keep your button styles the same ... */
 </head>
 <body>
     <h1>Tatsam Anand</h1>
